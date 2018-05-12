@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '25889'
     url: http://www.gutenberg.org/2009/agents/25889
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23517#The-Angel-of-the-Tenement
 gutenberg_issued: '2007-11-16'
 gutenberg_type: Text
 identifiers:
